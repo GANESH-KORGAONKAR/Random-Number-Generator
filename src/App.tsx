@@ -4,8 +4,7 @@ import RandomNum from './components/RandomNum';
 
 const App: React.FC = () => {
   return (
-    <div className="App">
-      <h1>Random Number Generator</h1>
+    <div className="flex items-center justify-center min-h-screen bg-gray-100">
       <RandomNum />
     </div>
   );
