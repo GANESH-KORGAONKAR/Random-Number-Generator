@@ -73,7 +73,7 @@ The application consists of a simple card UI:
 - A **title**, a **button**, and the **generated random number** displayed dynamically.
 
 Screenshot:  
-e:\Ganesh\CODING PROJECT\Project SS for GitHub\Random Number Generator.png 
+![alt text](<Random Number Generator.png>)
 
 ---
 
